@@ -1,12 +1,12 @@
 @import url("styles/header.css");
 
 :root{
- --cor-de-fundo: #030627;
- --branco: #fefeff;
+ --cor-de-fundo: #323b9c;
+ --branco: #000000;
  --laranja: #ffc400;
- --amarelo: #ff0000;
- --roxo-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
- --preto: #000000;
+ --amarelo: #3002fa;
+ --roxo-degrade: linear-gradient(97.54deg, #343cb9 35.49%, #0e6eb3 165.37%);
+ --preto: #ffffff;
 
 }
 body{
