@@ -1,15 +1,16 @@
 @import url("styles/header.css");
 
 :root{
- --cor-de-fundo: #0b1581;
- --branco: #0379ff;
+ --cor-de-fundo: #fffdef;
+ --branco: #fefffc;
  --laranja: #ffc400;
- --amarelo: #3002fa;
+ --amarelo: #000000;
  --roxo-degrade: linear-gradient(97.54deg, #343cb9 35.49%, #0e6eb3 165.37%);
- --preto: #fff4f4;
+ --preto: #1a0101;
 
 }
 body{
     background-color: var(--cor-de-fundo);
+    
     
 }
