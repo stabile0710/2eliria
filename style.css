@@ -7,10 +7,13 @@
  --amarelo: #000000;
  --roxo-degrade: linear-gradient(97.54deg, #343cb9 35.49%, #0e6eb3 165.37%);
  --preto: #1a0101;
+ 
 
 }
 body{
     background-color: var(--cor-de-fundo);
     
-    
+   
+
 }
+
